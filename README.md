@@ -1,2 +1,4 @@
 # hagrid
-download and run hagrid.java. see what happens.
+download and run. see what happens.
+
+click Download ZIP and run hagrid.java
