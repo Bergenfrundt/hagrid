@@ -1,12 +1,11 @@
-# You're a wizard, harry.
-download and run. see what happens.
+# You're a wizard, Harry
+Download and run. See what happens.
 
-click Download ZIP and run hagrid.java
-i take no responsibility for what hagrid does. 
+Click Download ZIP and run hagrid.java.
+I take no responsibility for what hagrid does.
 
-Java hagrid may have some problem but requires no setup.
+hagrid.java may have some problem but requires no setup.
 
-.Bat hagrid is much more reliable, but only works on windows
+hagrid.bat is much more reliable, but only works on windows
 
-.Bat hagridB is an alternate to .Bat hagrid if it doesn't work. It requires you open the file and replace  "putoyurusernamehere"  with your windows username
-
+hagridB.bat is an alternate to hagrid.bat if it doesn't work. It requires you open the file and replace  "putoyourusernamehere"  with your Windows username.
