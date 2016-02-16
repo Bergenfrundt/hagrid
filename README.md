@@ -1,15 +1,15 @@
 # You're a wizard, Harry
-Download and run. See what happens.
+Download and run; see what happens.
 
-Click Download ZIP and run hagrid.java.
+Click "Download ZIP" and run `hagrid.java`.
 I take no responsibility for what hagrid does.
 
-hagrid.java may have some problem but requires no setup.
+`hagrid.java` may have some problem but requires no setup.
 
-hagrid.bat is much more reliable, but only works on windows
+`hagrid.bat` is much more reliable but only works on Windows
 
-hagridB.bat is an alternate to hagrid.bat if it doesn't work. It requires you open the file and replace  "putoyourusernamehere"  with your Windows username.
+`hagridB.bat` is an alternate to `hagrid.bat` if it doesn't work. It requires you open the file and replace  `putyourusernamehere`  with your Windows username.
 
-##License
+## License
 
-This project is licensed under the MIT License.
+This project under the MIT License.
